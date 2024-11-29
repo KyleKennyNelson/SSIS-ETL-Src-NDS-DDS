@@ -1,0 +1,20 @@
+*.deploy
+*.deploymentmanifest
+
+# Ignore local settings and config files
+*.localconfig
+*.User.config
+
+# Ignore Visual Studio specific files
+.vs/
+*.vssscc
+*.vspscc
+*.sln.docstates
+
+# Ignore backups
+*.bak
+*.old
+
+# Ignore specific folders or files (customize as needed)
+TestResults/
+GeneratedFiles/
